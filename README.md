@@ -15,10 +15,15 @@ Crypto’s sunk in boredom: endless charts, 100-page white papers, and projects 
 **technical details:**
 
 **Name:** Uncle Sam Coin
+
 **Symbol:** USAM
+
 **Standard:** ERC-20
+
 **Name:** Uncle Sam Coin
+
 **Symbol:** USAM
+
 **Standard:** ERC-20
 
 
